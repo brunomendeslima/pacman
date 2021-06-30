@@ -1,10 +1,10 @@
 import styled from "styled-components"
 
 const ScreenTemplate = styled.div`
-    width: 700px;
-    height: 500px;
+    width: 100px;
+    height: 80px;
     border-style: solid;
-    border-width: 5px;
+    border-width: 1px;
 `
 const Container = styled.div`
     display: flex;
